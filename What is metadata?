@@ -1,0 +1,34 @@
+Authors:
+
+Matthew Kosinski
+Enterprise Technology Writer
+
+Annie Badman
+Writer
+
+------------------------------
+
+Metadata is information—such as author, creation date or file size—that describes a data point or data set. 
+Metadata can improve a data system’s functions and make it easier to search for, organize and use data.
+
+The simple definition of metadata is "data about data." That is, it provides details about data that is separate
+from the content of the data itself. For example, a table of recent customer orders constitutes a data set,
+while information about that data set—such as who owns it or what type of file it is—is the metadata.
+
+Different types of metadata serve different functions. For example, descriptive metadata for a document might include the author,
+creation date, file size and keywords. Technical metadata for a relational database might describe the structure of tables, 
+data types and relationships between tables.
+
+Given the sheer volume of data that businesses handle today, metadata is indispensable. It enhances data accessibility, 
+making it easier to navigate large data sets and convert raw information into actionable insights. For example, 
+a retail business can use metadata to quickly find sales data for a specific month, filtered by product category and region, without searching through all its data.
+
+Metadata is also critical in data governance and data management. In fact, Gartner found that enterprises
+that don’t take a metadata-driven approach to IT modernization can spend as much as 40% more on data management.
+
+Systems such as databases, digital libraries and content management platforms rely on metadata to sort, retrieve and manage data. 
+When data is better organized, organizations can maximize its value for critical business initiatives, 
+including business intelligence (BI), artificial intelligence (AI) and machine learning (ML) projects.
+
+Metadata also helps ensure data quality and data integrity. It enables data lineage efforts and supports compliance with regulations, 
+such as the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA).

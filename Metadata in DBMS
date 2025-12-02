@@ -1,0 +1,12 @@
+Metadata in DBMS
+https://medium.com/@dmukherjeetextiles/metadata-in-dbms-with-examples-24d2e6cbe241
+
+Metadata is essential in the field of database management systems (DBMS). 
+It gives critical information about the data contained in a database, 
+letting users and applications comprehend and use the data effectively. 
+In this article, we will look at the notion of metadata in DBMS, and its usefulness, 
+and present examples to help you understand it better.
+
+A database management system (or DBMS) is simply a computerised data storage system. 
+Users of the system are given the ability to execute a variety of actions on such a system, 
+such as manipulating the data in the database or managing the database structure itself.
